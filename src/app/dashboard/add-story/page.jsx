@@ -1,12 +1,12 @@
 import Title from '@/components/Title';
 import React from 'react';
 
-const DashboardLayout = () => {
+const AddStory = () => {
     return (
         <div>
-            <Title>Welcome to DashBoard</Title>
+           <Title> Add your story</Title>
         </div>
     );
 };
 
-export default DashboardLayout; 
+export default AddStory;
